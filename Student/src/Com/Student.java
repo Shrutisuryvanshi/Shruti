@@ -5,5 +5,9 @@ public class Student {
 	{
 		System.out.println("Student added");
 	}
+	public void removeStudent()
+	{
+		System.out.println("Student remove");
+	}
 
 }
