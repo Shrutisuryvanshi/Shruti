@@ -5,5 +5,9 @@ public class Employee {
 	{
 		System.out.println("Employee added");
 	}
+	public void removeEmployee()
+	{
+		System.out.println("Employee remove");
+	}
 
 }
